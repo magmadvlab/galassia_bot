@@ -44,3 +44,4 @@ export const wellnessFAQ_IT = {
    }
  }
 };
+export default wellness_it.js;
