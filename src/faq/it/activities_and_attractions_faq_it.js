@@ -1,4 +1,4 @@
-export const activitiesAndAttractions_IT = {
+const activitiesAndAttractions_IT = {
   title: 'Attività e Attrazioni',
   keywords: [
     'attività', 'servizi', 'animazione', 'eventi', 'divertimento', 
@@ -55,3 +55,5 @@ export const activitiesAndAttractions_IT = {
     }
   }
 };
+
+export default activitiesAndAttractions_IT;
