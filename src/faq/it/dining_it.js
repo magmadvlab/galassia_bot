@@ -62,3 +62,4 @@ export const diningFAQ_IT = {
     }
   }
 };
+export default dining_it.js;
