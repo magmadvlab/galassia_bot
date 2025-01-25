@@ -40,3 +40,4 @@ export const petsFAQ_IT = {
     }
   }
 };
+export default pets_it.js;
