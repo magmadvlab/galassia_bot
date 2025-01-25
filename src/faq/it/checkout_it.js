@@ -37,3 +37,4 @@ export const checkoutFAQ_IT = {
     }
   }
 };
+export default checkout_it.js;
