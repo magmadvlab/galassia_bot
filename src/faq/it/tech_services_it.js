@@ -36,3 +36,4 @@ export const techServicesFAQ_IT = {
     }
   }
 };
+export default techservices_it.js;
