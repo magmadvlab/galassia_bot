@@ -51,3 +51,4 @@ export const skiFAQ_IT = {
     }
   }
 };
+export default ski_it.js;
