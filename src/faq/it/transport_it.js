@@ -62,3 +62,4 @@ export const transportFAQ_IT = {
    }
  }
 };
+export default transport_it.js;
