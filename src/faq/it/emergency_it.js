@@ -36,3 +36,4 @@ export const emergencyFAQ_IT = {
     }
   }
 };
+export default emergency_it.js;
