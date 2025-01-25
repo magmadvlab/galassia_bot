@@ -1,0 +1,77 @@
+/* Stile generale */
+.App {
+  font-family: Arial, sans-serif;
+  margin: 20px auto;
+  max-width: 600px;
+  text-align: center;
+}
+
+/* Finestra della chat */
+.chat-window {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+}
+
+/* Cronologia della chat */
+.chat-history {
+  max-height: 300px;
+  overflow-y: auto;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background-color: #fff;
+}
+
+/* Messaggi della chat */
+.chat-message {
+  padding: 8px;
+  margin: 5px 0;
+  border-radius: 6px;
+  word-wrap: break-word;
+}
+
+/* Messaggi dell'utente */
+.chat-message.user {
+  background-color: #daf5d9;
+  text-align: right;
+  margin-left: auto;
+}
+
+/* Messaggi del bot */
+.chat-message.bot {
+  background-color: #f0f0f0;
+  text-align: left;
+  margin-right: auto;
+}
+
+/* Input e pulsanti */
+.chat-input {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.chat-input input {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+
+.chat-input button {
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.chat-input button:hover {
+  background-color: #0056b3;
+}
